@@ -33,6 +33,8 @@ const GetAppLink = () => {
             <Link to={`/Copy`}>Copy</Link>
             <hr/>
             <Link to={`/Fax/`}>Fax</Link>
+            <hr/>
+            <Link to={`/Mui_Comp_Study/`}>Mui_Comp_Stady</Link>
         </div>
     )
 }
